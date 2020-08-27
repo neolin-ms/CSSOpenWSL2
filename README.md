@@ -13,7 +13,7 @@
 ```sh
 PS C:\windows\system32> dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart 
 ``` 
-![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/1_2.PNG "1_2")<br>
+![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_2.png "1_2")<br>
 
 3. Restart your machine to complete the enable WSL.<br>
 
