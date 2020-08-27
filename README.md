@@ -10,7 +10,7 @@
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_1.png "1_1")<br>
 
 2. Run command.<br>
-> ```pw
+> ```ps
 > PS C:\windows\system32> dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart 
 > ``` 
 > Output:
