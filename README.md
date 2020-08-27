@@ -66,17 +66,22 @@
 
 1. PowerShell - Installation via Package Repository - Debian 10. For more details, please check [here](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7#debian-10).
 > Command:
-> # Download the Microsoft repository GPG keys
+> Download the Microsoft repository GPG keys
+> ```sh
 > neolin@tw-hslin-205:~$ sudo wget https://packages.microsoft.com/config/debian/10/packages-microsoft-prod.deb
->
-> # Register the Microsoft repository GPG keys
+> ```
+> Register the Microsoft repository GPG keys
+> ```sh
 > neolin@tw-hslin-205:~$ sudo dpkg -i packages-microsoft-prod.deb
->
-> # Update the list of products
+> ```
+> Update the list of products
+> ```sh
 > neolin@tw-hslin-205:~$ sudo apt-get update
->
-> # Install PowerShell
+> ```
+> Install PowerShell
+> ```sh
 > neolin@tw-hslin-205:~$ sudo apt-get install -y powershell
+> ```
 
 # Start PowerShell
 pwsh
