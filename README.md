@@ -86,3 +86,11 @@
 > ```sh
 > neolin@tw-hslin-205:~$ pwsh
 > ```
+> Output:
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/3_1.png "3_1")<br>
+
+2. Install Azure PowerShell. For more details, please check [here](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-4.6.0#code-try-0). 
+> Command:<br>
+> - Requirements: Azure PowerShell works with PowerShell 6.2.4 and later on all platforms. To check your PowerShell version, run the command.
+> ```ps
+> 
