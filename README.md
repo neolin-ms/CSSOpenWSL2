@@ -45,12 +45,13 @@
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_5.png "2_5")<br>
 
 6. Now you already installed the Linux on your Windows 10 and can try to run Linux command.<br> 
-![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_6.PNG "2_6")<br>
-
-```ps
-neolin@tw-hslin-205:~$ lsb_release -a
-```
-![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_7.PNG "2_7")<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_6.png "2_6")<br>
+> Command:
+> ```sh
+> neolin@tw-hslin-205:~$ lsb_release -a
+> ```
+> Output:
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_7.png "2_7")<br>
 
 7. Open PowerShell as Administrator, and run command to check the WSL version.
 ```ps
