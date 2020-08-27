@@ -30,7 +30,7 @@
 ## Install Linux distribution on WSL 2
 
 1. Open the Microsoft Store and select your favorite Linux distribution via **Windows logo key** + **s**. Then enter the store, and click **Open**.<br>
-![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_1.PNG "2_1")<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_1.png "2_1")<br>
 
 2. Go to **Microsoft** > **Linux for Windows**. Then click **Ubuntu**.<br> 
 ![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_2.PNG "2_2")<br>
