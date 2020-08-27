@@ -7,14 +7,22 @@
 
 ## Enable the Windows Subsystem for Linux optionl feature on Windows 10
 
-1. Open PowerShell as Administrator. 
+1. Open PowerShell as Administrator.<br> 
 ![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/01.PNG "01")<br>
 
-2. Run command.
+2. Run command.<br>
 ```sh
 PS C:\windows\system32> dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart 
 ``` 
+![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/02.PNG "02")<br>
 
+3. Restart your machine to complete the enable WSL.
 
+4. After restart the Windows 10, please open PowerShell as Administrator. Then run command to set WSL 2 as the default version when installing a new Linux distribution. 
+```sh
+PS C:\windows\system32> wsl --set-default-version 2 
+![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/03.PNG "03")<br>
+``` 
+## Install Linux distribution on WSL 2
 
-
+1. Open the Microsoft Store and select your favorite Linux distribution via **Windows logo key** + **s**. Then enter the store, and click **Open**.
