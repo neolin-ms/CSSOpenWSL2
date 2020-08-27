@@ -7,14 +7,14 @@
 ## Enable the Windows Subsystem for Linux optionl feature on Windows 10
 
 1. Open PowerShell as Administrator.<br> 
-![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_1.png "1_1")<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_1.png "1_1")<br>
 
 2. Run command.<br>
-```sh
-PS C:\windows\system32> dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart 
-``` 
-Output:
-![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_2.png "1_2")<br>
+> ```sh
+> PS C:\windows\system32> dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart 
+> ``` 
+> Output:
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_2.png "1_2")<br>
 
 3. Restart your machine to complete the enable WSL.<br>
 
