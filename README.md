@@ -50,7 +50,7 @@
 > ```sh
 > neolin@tw-hslin-205:~$ lsb_release -a
 > ```
-> Output:
+> Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_7.png "2_7")<br>
 
 7. Open PowerShell as Administrator, and run command to check the WSL version.<br>
