@@ -2,7 +2,7 @@
 
 - What is WSL? Please refer to https://docs.microsoft.com/en-us/windows/wsl/about <br> 
 - WSL 2 is only available in **Windows 10, Version 2004, Build 19041 or higher**. You may need to update your Windows version.
-- This is installation guide on Windows 10 for <Windows Subsystem for Linux>, I recorded these installation steps for myself. Please feel free contact with me, if have any problems on this guide. 
+- This is installation guide on Windows 10 for `Windows Subsystem for Linux`, I recorded these installation steps for myself. Please feel free contact with me, if have any problems on this guide. 
 
 ## Enable the Windows Subsystem for Linux optionl feature on Windows 10
 
@@ -10,7 +10,7 @@
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_1.png "1_1")<br>
 
 2. Run command.<br>
-> ```sh
+> ```pw
 > PS C:\windows\system32> dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart 
 > ``` 
 > Output:
