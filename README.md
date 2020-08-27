@@ -33,11 +33,10 @@
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_1.png "2_1")<br>
 
 2. Go to **Microsoft** > **Linux for Windows**. Then click **Ubuntu**.<br> 
-![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_2.PNG "2_2")<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_2.png "2_2")<br>
 
 3. From the distribution's page, click **Get**.<br> 
-![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_3.PNG "2_3")<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_3.png "2_3")<br>
 
 4. After finished to install Ubuntu Linux, click **Start**.<br> 
 ![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_4.PNG "2_4")<br>
