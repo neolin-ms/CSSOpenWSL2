@@ -10,6 +10,7 @@
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_1.png "1_1")<br>
 
 2. Run command.<br>
+> Command:
 > ```ps
 > PS C:\windows\system32> dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart 
 > ``` 
@@ -19,6 +20,7 @@
 3. Restart your machine to complete the enable WSL.<br>
 
 4. After restart the Windows 10, please open PowerShell as Administrator. Then run command to set WSL 2 as the default version when installing a new Linux distribution.<br> 
+> Command:
 > ```ps
 > PS C:\windows\system32> wsl --set-default-version 2 
 > ``` 
