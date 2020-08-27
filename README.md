@@ -53,7 +53,7 @@
 > Output:
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_7.png "2_7")<br>
 
-7. Open PowerShell as Administrator, and run command to check the WSL version.
+7. Open PowerShell as Administrator, and run command to check the WSL version.<br>
 ```ps
 PS C:\windows\system32> wsl -l -v 
 ```
