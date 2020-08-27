@@ -19,7 +19,7 @@
 3. Restart your machine to complete the enable WSL.<br>
 
 4. After restart the Windows 10, please open PowerShell as Administrator. Then run command to set WSL 2 as the default version when installing a new Linux distribution.<br> 
-> ```sh
+> ```ps
 > PS C:\windows\system32> wsl --set-default-version 2 
 > ``` 
 > Output:
@@ -45,13 +45,13 @@
 6. Now you already installed the Linux on your Windows 10 and can try to run Linux command.<br> 
 ![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_6.PNG "2_6")<br>
 
-```sh
+```ps
 neolin@tw-hslin-205:~$ lsb_release -a
 ```
 ![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_7.PNG "2_7")<br>
 
 7. Open PowerShell as Administrator, and run command to check the WSL version.
-```sh
+```ps
 PS C:\windows\system32> wsl -l -v 
 ```
 ![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_8.PNG "2_8")<br>
