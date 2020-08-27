@@ -14,7 +14,7 @@
 > ```ps
 > PS C:\windows\system32> dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart 
 > ``` 
-> Output:
+> Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_2.png "1_2")<br>
 
 3. Restart your machine to complete the enable WSL.<br>
@@ -24,7 +24,7 @@
 > ```ps
 > PS C:\windows\system32> wsl --set-default-version 2 
 > ``` 
-> Output:
+> Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_3.png "1_3")<br>
 
 ## Install Linux distribution on WSL 2
@@ -59,5 +59,5 @@
 > ```ps
 > PS C:\windows\system32> wsl -l -v 
 > ```
-> Output:
-> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_7.png "2_7")<br>
+> Output:<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_8.png "2_8")<br>
