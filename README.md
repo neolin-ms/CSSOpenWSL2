@@ -7,7 +7,7 @@
 ## Enable the Windows Subsystem for Linux optionl feature on Windows 10
 
 1. Open PowerShell as Administrator.<br> 
-![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/1_1.PNG "1_1")<br>
+![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_1.png "1_1")<br>
 
 2. Run command.<br>
 ```sh
