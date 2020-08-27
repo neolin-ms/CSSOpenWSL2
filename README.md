@@ -42,7 +42,7 @@
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_4.png "2_4")<br>
 
 5. The first time you launch a newly installed Linux distribution, a console windows will open and you'll be asked to wait for a minute or two for files to de-compress and be store on your Windows 10. You will need to create a **username** and **password** for your new Linux distribution.<br> 
-![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_5.PNG "2_5")<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_5.png "2_5")<br>
 
 6. Now you already installed the Linux on your Windows 10 and can try to run Linux command.<br> 
 ![GITHUB](https://github.com/neolin-ms/CSSOpenWSL2/WSL2Image/2_6.PNG "2_6")<br>
