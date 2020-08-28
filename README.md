@@ -136,3 +136,12 @@
 >>![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_4.png "4_4")<br>
 >> * Azure PowerShell prompt<br>
 >> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_5.png "4_5")<br>
+
+## Use Azure PowerShell to Deploy a Linux VM on Azure 
+
+1. Create a PowerShell script to deploy a Linux VM on Azure. For the script example, please refer to [here](://github.com/neolin-ms/AzurePowerShell/blob/master/2Create_VM_Linux.ps1). Copy script example and save it to your Linux. 
+> Command:<br>
+> ```ps
+> PS /home/neolin> vi script_example.ps1 
+> ```
+2. Click **i** to enter edit mode, then copy the script example cods and paste. Click **Esc** to view mode, then click **: + wq + !** for save the file.<br> 
