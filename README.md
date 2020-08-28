@@ -139,7 +139,7 @@
 
 ## Use Azure PowerShell to Deploy a Linux VM on Azure 
 
-1. On the Linux command prompt, run command to create an SSH key pair.
+1. On the Linux command prompt, run command to create an SSH key pair. And you will see the two files, e.g. id_rsa, and id_rsa.pub.<br>
 > Command:<br>
 > ```sh
 > neolin@tw-hslin-205:~$ ssh-keygen -m PEM -t rsa -b 4096 
