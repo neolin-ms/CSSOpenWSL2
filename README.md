@@ -132,5 +132,7 @@
 > - Please enter your alias name for Sign in, e.g. xxxx@microsoft.com. Then click **Next**.<br> 
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_3.png "4_3")<br>
 > - You have signed in to the Azure PowerShell application on your device. And also see your Azure subscription on the Azure PowerShell prompt.<br> 
-> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_4.png "4_4")<br>
-> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_5.png "4_5")<br>
+>> * Webpage
+>>![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_4.png "4_4")<br>
+>> * Azure PowerShell prompt
+>> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_5.png "4_5")<br>
