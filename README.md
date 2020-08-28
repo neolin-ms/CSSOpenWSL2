@@ -143,6 +143,7 @@
 > Command:<br>
 > ```sh
 > neolin@tw-hslin-205:~$ ssh-keygen -m PEM -t rsa -b 4096 
+> neolin@tw-hslin-205:~$ ls .ssh
 > ```
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_1.png "5_1")<br>
