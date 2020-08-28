@@ -170,3 +170,11 @@
 > ``` 
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_4.png "5_4")<br>
+6. After accessed to Linux VM, run command to check the Linux Kernel version.<br>
+> Command:<br>
+> ```sh
+> [azureuser@myVM ~]$ cat /etc/*release
+> ```
+> Output:<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_5.png "5_5")<br>
+
