@@ -186,7 +186,7 @@
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_6.png "5_6")<br>
 7. Return to Azure PowerShell, and then clean up the resource of test on Azure. 
-> - Confirm the rsource name  
+> - Confirm the rsource name 
 > Command:<br>
 > ```ps
 > PS /home/neolin> Get-AzResourceGroup
@@ -194,16 +194,11 @@
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_7.png "5_7")<br>
 > - Delete the resource
+> Command:<br>
 > ```ps
-> PS /home/neolin> $job = Remove-AzResourceGroup -Name "myResourceGroup" -Force -AsJob
-> ```
-> - Show clean state
-> ```ps
-> PS /home/neolin> $job 
-> ```
-> - Wait unit the deletion is complete.
-> ```ps
-> PS /home/neolin> Wait-Job -Id $job.Id
+> PS /home/neolin> $job = Remove-AzResourceGroup -Name "myResourceGroup" -Force -AsJob //Delete
+> PS /home/neolin> $job //Show clean state 
+> PS /home/neolin> Wait-Job -Id $job.Id //Wait unit the deletion is complete
 > ```
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_8.png "5_8")<br>
