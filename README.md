@@ -160,6 +160,13 @@
 > neolin@tw-hslin-205:~$ pwsh
 > PS /home/neolin> ./script_example.ps1
 > ```
-> Output:
+> Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_3.png "5_3")<br>
-
+5. After complted to deploy the Linux VM, you can see a public ip. Then you able to access to Linux VM via SSH<br> 
+> Command:<br>
+> ```sh
+> PS /home/neolin> exit
+> neolin@tw-hslin-207a:~$ ssh -i ~/.ssh/id_rsa azureuser@13.94.61.247
+> ``` 
+> Output:<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_4.png "5_4")<br>
