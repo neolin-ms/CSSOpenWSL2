@@ -139,10 +139,21 @@
 
 ## Use Azure PowerShell to Deploy a Linux VM on Azure 
 
-1. Create a PowerShell script to deploy a Linux VM on Azure. For the script example, please refer to [here](://github.com/neolin-ms/AzurePowerShell/blob/master/2Create_VM_Linux.ps1). Copy script example and save it to your Linux. 
+1. On the Linux command prompt, run command to create an SSH key pair.
+> Command:<br>
+> ```sh
+> neolin@tw-hslin-205:~$ ssh-keygen -m PEM -t rsa -b 4096 
+> ```
+> Output:<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_1.png "5_1")<br>
+2. Create a PowerShell script to deploy a Linux VM on Azure. For the script example, please refer to [here](://github.com/neolin-ms/AzurePowerShell/blob/master/2Create_VM_Linux.ps1). Copy script example and save it to your Linux. 
 > Command:<br>
 > ```ps
-> PS /home/neolin> vi script_example.ps1 
+> neolin@tw-hslin-205:~$ vi script_example.ps1 
 > ```
-2. Click **i** to enter edit mode, then copy the script example cods and paste. Click **Esc** to view mode, then click **: + wq! + Enter** for save and exit the file.<br> 
->> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_1.png "5_1")<br>
+3. Click key **i** to enter edit mode, then copy the script example cods and paste. Click key **Esc** to view mode, then click key **: + wq! + Enter** for save and exit the file.<br> 
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_2.png "5_2")<br>
+
+4. Run the script_example.ps1 to deploy a Linux VM on Azure.<br>
+> Command:
+> PS /home/neolin> ./script_example.ps1
