@@ -95,9 +95,9 @@
 > ```ps
 > PS /home/neolin> $PSVersionTable.PSVersion
 > ``` 
-> Output:
+> Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/3_2.png "3_2")<br>
-> - Install the Azure PowerShell module. Copy below codes and put on PS prompt. 
+> - Install the Azure PowerShell module. Copy below codes and put on PS prompt, then **Enter**. 
 > ```ps
 > if ($PSVersionTable.PSEdition -eq 'Desktop' -and (Get-Module -Name AzureRM -ListAvailable)) {
 >    Write-Warning -Message ('Az module not installed. Having both the AzureRM and ' +
@@ -107,3 +107,23 @@
 >}
 > ```
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/3_3.png "3_3")<br>
+> Output:<br>
+> ```ps
+> Untrusted repository
+>
+> You are installing the modules from an untrusted repository. If you trust this repository, change
+> its InstallationPolicy value by running the `Set-PSRepository` cmdlet.
+> 
+> Are you sure you want to install the modules from 'PSGallery'?
+> [Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "N"):
+> ```
+> Answer **Yes** or **Yes to All** to continue with the installation.
+
+## Sign in with your Azure credentials.
+> - Try to sin in your Azure. Connect to Azure with a browser sign in token. 
+> Command:
+> ```ps
+> Connct-AzAccount
+> ``` 
+> Output:<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_1.png "4_1")<br>
