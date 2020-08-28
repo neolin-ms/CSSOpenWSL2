@@ -171,18 +171,39 @@
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_4.png "5_4")<br>
 6. After accessed to Linux VM, run command to check the Linux distribution version and Linux Kernel.<br>
->> - Check Linux distribution version<br>
->> Command:<br>
->> ```sh
->> [azureuser@myVM ~]$ cat /etc/*release
->> ```
->> Output:<br>
->> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_5.png "5_5")<br>
->> - Check the Linux Kernel version<br> 
->> Command:<br>
->> ```sh
->> [azureuser@myVM ~]$ uname -ra
->> ```
->> Output:<br>
->> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_6.png "5_6")<br>
-
+> - Check Linux distribution version<br>
+> Command:<br>
+> ```sh
+> [azureuser@myVM ~]$ cat /etc/*release
+> ```
+> Output:<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_5.png "5_5")<br>
+> - Check the Linux Kernel version<br> 
+> Command:<br>
+> ```sh
+> [azureuser@myVM ~]$ uname -ra
+> ```
+> Output:<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_6.png "5_6")<br>
+7. Return to Azure PowerShell, and then clean up the resource of test on Azure. 
+> - Confirm the rsource name  
+> Command:<br>
+> ```ps
+> PS /home/neolin> Get-AzResourceGroup
+> ``` 
+> Output:<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_7.png "5_7")<br>
+> - Delete the resource
+> ```ps
+> PS /home/neolin> $job = Remove-AzResourceGroup -Name "myResourceGroup" -Force -AsJob
+> ```
+> - Show clean state
+> ```ps
+> PS /home/neolin> $job 
+> ```
+> - Wait unit the deletion is complete.
+> ```ps
+> PS /home/neolin> Wait-Job -Id $job.Id
+> ```
+> Output:<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_8.png "5_8")<br>
