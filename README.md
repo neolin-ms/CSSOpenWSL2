@@ -95,4 +95,14 @@
 > ```ps
 > PS /home/neolin> $PSVersionTable.PSVersion
 > ``` 
+> Output:
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/3_2.png "3_2")<br>
+> - Install the Azure PowerShell module
+> ```ps
+> if ($PSVersionTable.PSEdition -eq 'Desktop' -and (Get-Module -Name AzureRM -ListAvailable)) {
+>    Write-Warning -Message ('Az module not installed. Having both the AzureRM and ' +
+>      'Az modules installed at the same time is not supported.')
+>} else {
+>    Install-Module -Name Az -AllowClobber -Scope CurrentUser
+>}
+> ```
