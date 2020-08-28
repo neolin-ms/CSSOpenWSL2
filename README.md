@@ -120,10 +120,12 @@
 > Answer **Yes** or **Yes to All** to continue with the installation.
 
 ## Sign in with your Azure credentials.
-> - Try to sin in your Azure. Connect to Azure with a browser sign in token. 
+> - Try to sin in your Azure. Connect to Azure with a browser sign in token.<br> 
 > Command:
 > ```ps
 > Connct-AzAccount
 > ``` 
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_1.png "4_1")<br>
+> - Open your borwse, then go to https://microsoft.com/devicelogin. On the webpage enter the code, e.g. HX*****. Then click **Next**.
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_2.png "4_2")<br>
