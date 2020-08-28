@@ -97,7 +97,7 @@
 > ``` 
 > Output:
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/3_2.png "3_2")<br>
-> - Install the Azure PowerShell module
+> - Install the Azure PowerShell module. Copy below codes and put on PS prompt. 
 > ```ps
 > if ($PSVersionTable.PSEdition -eq 'Desktop' -and (Get-Module -Name AzureRM -ListAvailable)) {
 >    Write-Warning -Message ('Az module not installed. Having both the AzureRM and ' +
@@ -106,3 +106,4 @@
 >    Install-Module -Name Az -AllowClobber -Scope CurrentUser
 >}
 > ```
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/3_3.png "3_3")<br>
