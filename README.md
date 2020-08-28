@@ -154,6 +154,12 @@
 3. Click key **i** to enter edit mode, then copy the script example cods and paste. Click key **Esc** to view mode, then click key **: + wq! + Enter** for save and exit the file.<br> 
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_2.png "5_2")<br>
 
-4. Run the script_example.ps1 to deploy a Linux VM on Azure.<br>
-> Command:
+4. Now enter Azure PowerShell, and run the script_example.ps1 to deploy a Linux VM on Azure.<br>
+> Command:<br>
+> ```ps
+> neolin@tw-hslin-205:~$ pwsh
 > PS /home/neolin> ./script_example.ps1
+> ```
+> Output:
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_3.png "5_3")<br>
+
