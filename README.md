@@ -144,4 +144,5 @@
 > ```ps
 > PS /home/neolin> vi script_example.ps1 
 > ```
-2. Click **i** to enter edit mode, then copy the script example cods and paste. Click **Esc** to view mode, then click **: + wq + !** for save the file.<br> 
+2. Click **i** to enter edit mode, then copy the script example cods and paste. Click **Esc** to view mode, then click **: + wq! + Enter** for save and exit the file.<br> 
+>> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_1.png "5_1")<br>
