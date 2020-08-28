@@ -1,10 +1,10 @@
-# CSSOpen - Session 1 - Lab 1 - WSL 2 Installation for Windows 10
+# CSSOpen - Session 1 - Lab 1&2&3 
 
 - What is WSL? Please refer to [here](https://docs.microsoft.com/en-us/windows/wsl/about).<br> 
 - WSL 2 is only available in **Windows 10, Version 2004, Build 19041 or higher**. You may need to update your Windows version.
 - This is installation guide on Windows 10 for `Windows Subsystem for Linux (WSL)`, I recorded these installation steps for myself. Please feel free contact with me, if have any problems on this guide. 
 
-## Enable the Windows Subsystem for Linux optionl feature on Windows 10
+## Lab 1: Enable the WSL optionl feature on Windows 10
 
 1. Open PowerShell as Administrator.<br> 
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_1.png "1_1")<br>
@@ -27,7 +27,7 @@
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/1_3.png "1_3")<br>
 
-## Install Linux distribution on WSL 2
+## Lab 1: Install Linux distribution on WSL 2
 
 1. Open the Microsoft Store and select your favorite Linux distribution via **Windows logo key** + **s**. Then enter the store, and click **Open**.<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_1.png "2_1")<br>
@@ -62,7 +62,7 @@
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_8.png "2_8")<br>
 
-## Install PowerShell/Azure PowerShell on Linux
+## Lab 2: Install PowerShell/Azure PowerShell on Linux
 
 1. PowerShell - Installation via Package Repository - Debian 10. For more details, please check [here](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7#debian-10).
 > Command:<br>
@@ -119,7 +119,7 @@
 > ```
 > Answer **Yes** or **Yes to All** to continue with the installation.
 
-## Sign in with your Azure credentials.
+## Lab 3: Sign in with your Azure credentials.
 > - Try to sin in your Azure. Connect to Azure with a browser sign in token.<br> 
 > Command:
 > ```ps
@@ -137,7 +137,7 @@
 >> * Azure PowerShell prompt<br>
 >> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_5.png "4_5")<br>
 
-## Use Azure PowerShell to Deploy a Linux VM on Azure 
+## Lab 3: Use Azure PowerShell to Deploy a Linux VM on Azure 
 
 1. On the Linux command prompt, run command to create an SSH key pair. And you will see the two files, e.g. id_rsa, and id_rsa.pub.<br>
 > Command:<br>
