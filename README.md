@@ -127,5 +127,7 @@
 > ``` 
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_1.png "4_1")<br>
-> - Open your borwse, then go to https://microsoft.com/devicelogin. On the webpage enter the code, e.g. HX*****. Then click **Next**.
+> - Open your borwse, then go to https://microsoft.com/devicelogin. On the webpage enter the code, e.g. HX*****. Then click **Next**.<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_2.png "4_2")<br>
+> - Please enter your alias name for Sign in,e.g. xxxx@microsoft.com. Then click **Next**.<br> 
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/4_3.png "4_3")<br>
