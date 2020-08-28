@@ -62,7 +62,7 @@
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/2_8.png "2_8")<br>
 
-## Lab 2: Install PowerShell/Azure PowerShell on Linux
+## Lab 2: Install PowerShell/Azure PowerShell on Debian Linux
 
 1. PowerShell - Installation via Package Repository - Debian 10. For more details, please check [here](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7#debian-10).
 > Command:<br>
