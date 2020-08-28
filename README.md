@@ -189,7 +189,7 @@
 > - Confirm the rsource name<br>  
 > Command:<br>
 > ```ps
-> PS /home/neolin> Get-AzResourceGroup
+> PS /home/neolin> Get-AzResourceGroup | Format-Table
 > ``` 
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_7.png "5_7")<br>
@@ -204,3 +204,10 @@
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_8.png "5_8")<br>
 8. Waiting for a while, you will see deletion state is **Completed**.<br> 
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_9.png "5_9")<br>
+9. Confirm the resource again. Then resource name - myResourceGRoup already deleted. 
+> ```ps
+> PS /home/neolin> Get-AzResourceGroup | Format-Table 
+> ```
+> Output:<br>
+> ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_10.png "5_10")<br>
+
