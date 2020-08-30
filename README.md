@@ -215,5 +215,5 @@
 ## Reference Links
 
 1. PPT-P.14, Linux Basic - 1 Hierarchical Directory Structure
-    The Linux Foundation Wiki - Filesystem Hierarchy Standard (FHS) Version 3.0 
-    https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html 
+> The Linux Foundation Wiki - Filesystem Hierarchy Standard (FHS) Version 3.0 
+> https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html 
