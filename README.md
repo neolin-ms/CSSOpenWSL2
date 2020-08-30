@@ -213,3 +213,7 @@
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_10.png "5_10")<br>
 
 ## Reference Links
+
+1. PPT-P14. Linux Basic - 1 Hierarchical Directory Structure
+> Linux - Filesystem Hierarchy Standard (FHS) Version 3.0 
+> https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html 
