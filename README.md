@@ -214,8 +214,7 @@
 
 ## Reference Links
 - Presentation file, P.10 
-  - Richard Stallman's Personal Site
-  > http://www.stallman.org/
+  - [stallman.org](http://www.stallman.org), Richard Stallman's Personal Site
   - GNU (GNU's Not Unix)
   > http://www.gnu.org/ 
   - Linus Torvalds
