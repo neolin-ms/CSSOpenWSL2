@@ -213,17 +213,18 @@
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_10.png "5_10")<br>
 
 ## Reference Links
-- PPT-P.10, 
+- Presentation file, P.10 
   - Richard Stallman's Personal Site
   > http://www.stallman.org/
-  - PPT-P.10, GNU (GNU's Not Unix)
+  - GNU (GNU's Not Unix)
   > http://www.gnu.org/ 
-  - PPT-P.10, Linus Torvalds
+  - Linus Torvalds
   > https://en.wikipedia.org/wiki/Linus_Torvalds
-  - PPT-P.10, GPL
+  - GPL
   > http://www.gnu.org/licenses/licenses.html#GPL
-  - PPT-P.10, Active Kernel release
+  - Active Kernel release
   > https://www.kernel.org/releases.html
-- PPT-P.14, Linux Basic - 1 Hierarchical Directory Structure
-> The Linux Foundation Wiki - Filesystem Hierarchy Standard (FHS) Version 3.0 
-> https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html 
+- Presentation file,P.14
+  - Linux Basic - 1 Hierarchical Directory Structure
+  > The Linux Foundation Wiki - Filesystem Hierarchy Standard (FHS) Version 3.0 
+  > https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html 
