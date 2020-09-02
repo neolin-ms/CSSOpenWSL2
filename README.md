@@ -226,6 +226,8 @@
   > https://www.kernel.org/releases.html
   - DistroWatch.com
   > https://distrowatch.com/
+  - Linux logo, why penguins? Linus said, I was bitten by a Killer Penguin in Australia.  
+  > https://www.sjbaker.org/wiki/index.php?title=The_History_of_Tux_the_Linux_Penguin
 - Presentation file,P.14
   - Linux Basic - 1 Hierarchical Directory Structure
   > The Linux Foundation Wiki - Filesystem Hierarchy Standard (FHS) Version 3.0 
