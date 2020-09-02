@@ -224,6 +224,8 @@
   > http://www.gnu.org/licenses/licenses.html#GPL
   - Active Kernel release
   > https://www.kernel.org/releases.html
+  - DistroWatch.com
+  > https://distrowatch.com/
 - Presentation file,P.14
   - Linux Basic - 1 Hierarchical Directory Structure
   > The Linux Foundation Wiki - Filesystem Hierarchy Standard (FHS) Version 3.0 
