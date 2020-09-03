@@ -219,7 +219,7 @@
   - [Wikipedia, Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds), Linux Torvalds.
   - [GPL](http://www.gnu.org/licenses/licenses.html#GPL), The GNU General Public License.
   - [Active Kernel release](https://www.kernel.org/releases.html), The Linux Kernel Archives.
-  - Long list of available distributions, see [The LWN.net Linux Distribution List](https://lwn.net/Distributions/). 
+  - For a rather long list of available distributions, see [The LWN.net Linux Distribution List](https://lwn.net/Distributions/). 
     - Red Hat Family Systems (including CentOS and Fedora)
     - SUSE Family Systems (including openSUSE)
     - Debian Family Systems (including Ubuntu and Linux Mint).
