@@ -215,10 +215,8 @@
 ## Reference Links
 - Presentation file, P.10 
   - [stallman.org](http://www.stallman.org), Richard Stallman's Personal Site
-  - GNU (GNU's Not Unix)
-  > http://www.gnu.org/ 
-  - Linus Torvalds
-  > https://en.wikipedia.org/wiki/Linus_Torvalds
+  - [GNU (GNU's Not Unix)](http://www.gnu.org), The GNU Operating System and the Free Software Movement 
+  - [Wikipedia, Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds), Linux Torvalds
   - GPL
   > http://www.gnu.org/licenses/licenses.html#GPL
   - Active Kernel release
