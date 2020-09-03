@@ -222,6 +222,4 @@
   - [DistroWatch.com](https://distrowatch.com/), Put the fun back into computing. Use Linux, BSD. 
   - [The History of Tux the Linux Penguin](https://www.sjbaker.org/wiki/index.php?title=The_History_of_Tux_the_Linux_Penguin), The Linux logo, why penguins? Linus said: I was bitten by a Killer Penguin in Australia.
 - Presentation file, P.14
-  - Linux Basic - 1 Hierarchical Directory Structure
-  > The Linux Foundation Wiki - Filesystem Hierarchy Standard (FHS) Version 3.0 
-  > https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html 
+  - The Linux Foundation, [Filesystem Hierarchy Standard (FHS) Version 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html). 
