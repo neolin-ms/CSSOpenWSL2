@@ -220,6 +220,9 @@
   - [GPL](http://www.gnu.org/licenses/licenses.html#GPL), The GNU General Public License.
   - [Active Kernel release](https://www.kernel.org/releases.html), The Linux Kernel Archives.
   - [DistroWatch.com](https://distrowatch.com/), Put the fun back into computing. Use Linux, BSD. 
+    - Red Hat Family Systems (including CentOS and Fedora)
+    - SUSE Family Systems (including openSUSE)
+    - Debian Family Systems (including Ubuntu and Linux Mint).
   - [The History of Tux the Linux Penguin](https://www.sjbaker.org/wiki/index.php?title=The_History_of_Tux_the_Linux_Penguin), The Linux logo, why penguins? Linus said: I was bitten by a Killer Penguin in Australia.
 - Presentation file, P.13
   - The Linux Foundation, check the training [edX - Introduction to Linux](https://www.edx.org/course/introduction-to-linux) (It's a free online training) get more details about System Structure. 
