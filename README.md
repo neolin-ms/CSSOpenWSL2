@@ -220,7 +220,7 @@
   - [GPL](http://www.gnu.org/licenses/licenses.html#GPL), The GNU General Public License.
   - [Active Kernel release](https://www.kernel.org/releases.html), The Linux Kernel Archives.
   - [DistroWatch.com](https://distrowatch.com/), Put the fun back into computing. Use Linux, BSD. 
-  - [The History of Tux the Linux Penguin](https://www.sjbaker.org/wiki/index.php?title=The_History_of_Tux_the_Linux_Penguin), The Linux logo, why penguins? Linux said: I was bitten by a Killer Penguin in Australia.
+  - [The History of Tux the Linux Penguin](https://www.sjbaker.org/wiki/index.php?title=The_History_of_Tux_the_Linux_Penguin), The Linux logo, why penguins? Linus said: I was bitten by a Killer Penguin in Australia.
 - Presentation file, P.14
   - Linux Basic - 1 Hierarchical Directory Structure
   > The Linux Foundation Wiki - Filesystem Hierarchy Standard (FHS) Version 3.0 
