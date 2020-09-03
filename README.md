@@ -222,6 +222,6 @@
   - [DistroWatch.com](https://distrowatch.com/), Put the fun back into computing. Use Linux, BSD. 
   - [The History of Tux the Linux Penguin](https://www.sjbaker.org/wiki/index.php?title=The_History_of_Tux_the_Linux_Penguin), The Linux logo, why penguins? Linus said: I was bitten by a Killer Penguin in Australia.
 - Presentation file, P.13
-  - The Linux Foundation, check the trainign [Introduction to Linx](https://www.edx.org/course/introduction-to-linux) get more details about System Structure(it's a free online training). 
+  - The Linux Foundation, check the training [edX - Introduction to Linx](https://www.edx.org/course/introduction-to-linux)(It's a free online training) get more details about System Structure. 
 - Presentation file, P.14
   - The Linux Foundation, [Filesystem Hierarchy Standard (FHS) Version 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html). 
