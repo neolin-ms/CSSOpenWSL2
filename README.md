@@ -212,16 +212,16 @@
 > Output:<br>
 > ![GITGUB](https://github.com/neolin-ms/CSSOpenWSL2/blob/master/WSL2Image/5_10.png "5_10")<br>
 
-## Reference Links
+## References
 - Presentation file, P.10 
-  - [stallman.org](http://www.stallman.org), Richard Stallman's Personal Site
-  - [GNU (GNU's Not Unix)](http://www.gnu.org), The GNU Operating System and the Free Software Movement 
-  - [Wikipedia, Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds), Linux Torvalds
-  - [GPL](http://www.gnu.org/licenses/licenses.html#GPL), The GNU General Public License
-  - [Active Kernel release](https://www.kernel.org/releases.html), The Linux Kernel Archives
+  - [stallman.org](http://www.stallman.org), Richard Stallman's Personal Site.
+  - [GNU (GNU's Not Unix)](http://www.gnu.org), The GNU Operating System and the Free Software Movement. 
+  - [Wikipedia, Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds), Linux Torvalds.
+  - [GPL](http://www.gnu.org/licenses/licenses.html#GPL), The GNU General Public License.
+  - [Active Kernel release](https://www.kernel.org/releases.html), The Linux Kernel Archives.
   - [DistroWatch.com](https://distrowatch.com/), Put the fun back into computing. Use Linux, BSD. 
   - [The History of Tux the Linux Penguin](https://www.sjbaker.org/wiki/index.php?title=The_History_of_Tux_the_Linux_Penguin), The Linux logo, why penguins? Linux said: I was bitten by a Killer Penguin in Australia.
-- Presentation file,P.14
+- Presentation file, P.14
   - Linux Basic - 1 Hierarchical Directory Structure
   > The Linux Foundation Wiki - Filesystem Hierarchy Standard (FHS) Version 3.0 
   > https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html 
